@@ -2,7 +2,7 @@
 
 A simple tool for enriching the output of `nvidia-smi`. 
 
-Specifically, `nvidia-smi` show only PIDs. This simple script shows also usernames of each PID as well
+Specifically, `nvidia-smi` shows only PIDs. This simple script also shows usernames of each PID as well
 
 ## Usage (if you want to use this at any directory, please add its path to ~/.bashrc
 
