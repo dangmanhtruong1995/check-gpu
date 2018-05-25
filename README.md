@@ -7,7 +7,6 @@ Specifically, `nvidia-smi` show only PIDs. This simple script shows also usernam
 ## Usage (if you want to use this at any directory, please add its path to ~/.bashrc
 
     check_gpu
-    
 
 ## Example output
       
